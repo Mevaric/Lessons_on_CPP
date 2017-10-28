@@ -1,0 +1,111 @@
+﻿'SimpleSnake.exe' (Win32): Loaded 'C:\Dev\c++\CppSeries\Lessons_on_CPP\x64\Debug\SimpleSnake.exe'. Symbols loaded.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Dev\c++\CppSeries\Lessons_on_CPP\x64\Debug\SDL2.dll'. Module was built without symbols.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\advapi32.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\sechost.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\gdi32.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\gdi32full.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\msvcp_win.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbase.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\user32.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\win32u.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\imm32.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\combase.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\bcryptprimitives.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\ole32.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\oleaut32.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\shell32.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\cfgmgr32.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\SHCore.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\windows.storage.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\shlwapi.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\powrprof.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\profapi.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\winmm.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\winmmbase.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\winmmbase.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\winmmbase.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Unloaded 'C:\Windows\System32\winmmbase.dll'
+'SimpleSnake.exe' (Win32): Unloaded 'C:\Windows\System32\winmmbase.dll'
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\uxtheme.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Program Files (x86)\TeamViewer\tv_x64.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_5.82.16299.19_none_e48015d00334ec58\comctl32.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\dwmapi.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\clbcatq.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\XAudio2_7.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\MMDevAPI.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\propsys.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\devobj.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\dinput8.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\hid.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\InputHost.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\CoreMessaging.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\CoreUIComponents.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\ntmarta.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\WinTypes.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\WinTypes.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Unloaded 'C:\Windows\System32\WinTypes.dll'
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\setupapi.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\wintrust.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\msasn1.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\crypt32.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Program Files\Common Files\Crypto Pro\AppCompat\cpcrypt.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\psapi.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Program Files\Common Files\Crypto Pro\AppCompat\detoured.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\XInput1_4.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\msctf.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\TextInputFramework.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\d3d9.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvlti.inf_amd64_bc6256506b580c14\nvldumdx.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\imagehlp.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\cryptsp.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Program Files\Common Files\Crypto Pro\AppCompat\cpadvai.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Program Files\Crypto Pro\CSP\cpcsp.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Program Files\Crypto Pro\CSP\cpcspi.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Program Files\Crypto Pro\CSP\cpsuprt.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Program Files\Crypto Pro\CSP\cprndm.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.16299.19_none_cc92fab02215da61\comctl32.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Program Files\Crypto Pro\CSP\bio.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Program Files\Crypto Pro\CSP\cpui.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\winhttp.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\msi.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\bcrypt.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Program Files\Common Files\Crypto Pro\AppCompat\cpmsi.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvlti.inf_amd64_bc6256506b580c14\nvd3dumx.dll'. Cannot find or open the PDB file.
+The thread 0x49b4 has exited with code 0 (0x0).
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\ResourcePolicyClient.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Unloaded 'C:\Windows\System32\ResourcePolicyClient.dll'
+'SimpleSnake.exe' (Win32): Loaded 'C:\Program Files (x86)\NVIDIA Corporation\3D Vision\nvSCPAPI64.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\nvspcap64.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\wtsapi32.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\nvapi64.dll'. Cannot find or open the PDB file.
+'SimpleSnake.exe' (Win32): Loaded 'C:\Windows\System32\dxgi.dll'. Cannot find or open the PDB file.
+The thread 0x4820 has exited with code 0 (0x0).
+The thread 0x4598 has exited with code 0 (0x0).
+The thread 0x88e8 has exited with code 0 (0x0).
+'SimpleSnake.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvlti.inf_amd64_bc6256506b580c14\nvd3dumx.dll'
+'SimpleSnake.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvlti.inf_amd64_bc6256506b580c14\nvldumdx.dll'
+'SimpleSnake.exe' (Win32): Unloaded 'C:\Windows\System32\d3d9.dll'
+The thread 0xb5c has exited with code 0 (0x0).
+'SimpleSnake.exe' (Win32): Unloaded 'C:\Windows\System32\XInput1_4.dll'
+'SimpleSnake.exe' (Win32): Unloaded 'C:\Windows\System32\XAudio2_7.dll'
+'SimpleSnake.exe' (Win32): Unloaded 'C:\Windows\System32\hid.dll'
+'SimpleSnake.exe' (Win32): Unloaded 'C:\Windows\System32\dinput8.dll'
+The thread 0x2080 has exited with code 0 (0x0).
+The thread 0x5d64 has exited with code 0 (0x0).
+The thread 0x851c has exited with code 0 (0x0).
+The thread 0x31c4 has exited with code 0 (0x0).
+The thread 0x5280 has exited with code 0 (0x0).
+The thread 0x6f4c has exited with code 0 (0x0).
+The thread 0x5158 has exited with code 0 (0x0).
+The thread 0x8888 has exited with code 0 (0x0).
+The thread 0x4b9c has exited with code 0 (0x0).
+The program '[8324] SimpleSnake.exe' has exited with code 0 (0x0).
