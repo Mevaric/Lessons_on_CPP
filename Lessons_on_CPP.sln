@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.16
+VisualStudioVersion = 15.0.27004.2008
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lessons_on_CPP", "Lessons_on_CPP\Lessons_on_CPP.vcxproj", "{ADE597FC-6AE4-42CE-873B-CFEB3C67B09D}"
 EndProject
@@ -16,6 +16,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ServerTCP", "Server\Server.vcxproj", "{9B28DA41-26E1-4DBA-A595-C6DDA4884C5A}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "multiple_inheritance_00", "multiple_inheritance_00\multiple_inheritance_00.vcxproj", "{E1C8486A-7F8D-4123-8C0D-F68FDEDB870B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TransparentWindow", "TransparentWindow\TransparentWindow.vcxproj", "{A4EF2489-5EFA-49CB-9E58-1C1A32CA381E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,14 @@ Global
 		{E1C8486A-7F8D-4123-8C0D-F68FDEDB870B}.Release|x64.Build.0 = Release|x64
 		{E1C8486A-7F8D-4123-8C0D-F68FDEDB870B}.Release|x86.ActiveCfg = Release|Win32
 		{E1C8486A-7F8D-4123-8C0D-F68FDEDB870B}.Release|x86.Build.0 = Release|Win32
+		{A4EF2489-5EFA-49CB-9E58-1C1A32CA381E}.Debug|x64.ActiveCfg = Debug|x64
+		{A4EF2489-5EFA-49CB-9E58-1C1A32CA381E}.Debug|x64.Build.0 = Debug|x64
+		{A4EF2489-5EFA-49CB-9E58-1C1A32CA381E}.Debug|x86.ActiveCfg = Debug|Win32
+		{A4EF2489-5EFA-49CB-9E58-1C1A32CA381E}.Debug|x86.Build.0 = Debug|Win32
+		{A4EF2489-5EFA-49CB-9E58-1C1A32CA381E}.Release|x64.ActiveCfg = Release|x64
+		{A4EF2489-5EFA-49CB-9E58-1C1A32CA381E}.Release|x64.Build.0 = Release|x64
+		{A4EF2489-5EFA-49CB-9E58-1C1A32CA381E}.Release|x86.ActiveCfg = Release|Win32
+		{A4EF2489-5EFA-49CB-9E58-1C1A32CA381E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
